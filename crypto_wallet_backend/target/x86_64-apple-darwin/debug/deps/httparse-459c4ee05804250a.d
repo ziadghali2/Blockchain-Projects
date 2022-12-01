@@ -1,0 +1,12 @@
+/Users/ziad/Documents/Project/BKR/crypto_wallet_backend/target/x86_64-apple-darwin/debug/deps/httparse-459c4ee05804250a.rmeta: /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/lib.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/iter.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/macros.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/mod.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/sse42.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/avx2.rs
+
+/Users/ziad/Documents/Project/BKR/crypto_wallet_backend/target/x86_64-apple-darwin/debug/deps/libhttparse-459c4ee05804250a.rlib: /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/lib.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/iter.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/macros.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/mod.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/sse42.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/avx2.rs
+
+/Users/ziad/Documents/Project/BKR/crypto_wallet_backend/target/x86_64-apple-darwin/debug/deps/httparse-459c4ee05804250a.d: /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/lib.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/iter.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/macros.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/mod.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/sse42.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/avx2.rs
+
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/lib.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/iter.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/macros.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/mod.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/sse42.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/avx2.rs:

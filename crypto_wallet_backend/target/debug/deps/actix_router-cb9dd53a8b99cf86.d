@@ -1,0 +1,13 @@
+/Users/ziad/Documents/Project/BKR/crypto_wallet_backend/target/debug/deps/actix_router-cb9dd53a8b99cf86.rmeta: /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/lib.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/de.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/path.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/pattern.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/quoter.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/resource.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/resource_path.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/router.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/url.rs
+
+/Users/ziad/Documents/Project/BKR/crypto_wallet_backend/target/debug/deps/actix_router-cb9dd53a8b99cf86.d: /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/lib.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/de.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/path.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/pattern.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/quoter.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/resource.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/resource_path.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/router.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/url.rs
+
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/lib.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/de.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/path.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/pattern.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/quoter.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/resource.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/resource_path.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/router.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.0/src/url.rs:
