@@ -1,0 +1,8 @@
+/Users/ziad/Documents/Project/BKR/solana_project/hello_solana/src/program/target/debug/deps/solana_config_program-d5425ec0a61bbea7.rmeta: /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/lib.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/config_instruction.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/config_processor.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/date_instruction.rs
+
+/Users/ziad/Documents/Project/BKR/solana_project/hello_solana/src/program/target/debug/deps/solana_config_program-d5425ec0a61bbea7.d: /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/lib.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/config_instruction.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/config_processor.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/date_instruction.rs
+
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/lib.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/config_instruction.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/config_processor.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.11.4/src/date_instruction.rs:

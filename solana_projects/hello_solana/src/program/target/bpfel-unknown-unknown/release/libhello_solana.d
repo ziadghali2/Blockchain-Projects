@@ -1,0 +1,1 @@
+/Users/ziad/Documents/Project/BKR/solana_project/hello_solana/src/program/target/bpfel-unknown-unknown/release/libhello_solana.rlib: /Users/ziad/Documents/Project/BKR/solana_project/hello_solana/src/program/src/lib.rs

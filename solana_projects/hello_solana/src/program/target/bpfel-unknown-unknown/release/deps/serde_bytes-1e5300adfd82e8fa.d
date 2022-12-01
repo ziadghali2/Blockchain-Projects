@@ -1,0 +1,11 @@
+/Users/ziad/Documents/Project/BKR/solana_project/hello_solana/src/program/target/bpfel-unknown-unknown/release/deps/serde_bytes-1e5300adfd82e8fa.rmeta: /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/lib.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytes.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/de.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/ser.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytebuf.rs
+
+/Users/ziad/Documents/Project/BKR/solana_project/hello_solana/src/program/target/bpfel-unknown-unknown/release/deps/libserde_bytes-1e5300adfd82e8fa.rlib: /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/lib.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytes.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/de.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/ser.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytebuf.rs
+
+/Users/ziad/Documents/Project/BKR/solana_project/hello_solana/src/program/target/bpfel-unknown-unknown/release/deps/serde_bytes-1e5300adfd82e8fa.d: /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/lib.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytes.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/de.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/ser.rs /Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytebuf.rs
+
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/lib.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytes.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/de.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/ser.rs:
+/Users/ziad/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytebuf.rs:
