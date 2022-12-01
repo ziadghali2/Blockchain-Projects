@@ -1,0 +1,1 @@
+/Users/ziad/Documents/Project/BKR/add_workspace/target/debug/adder: /Users/ziad/Documents/Project/BKR/add_workspace/add_one/src/lib.rs /Users/ziad/Documents/Project/BKR/add_workspace/adder/src/main.rs
