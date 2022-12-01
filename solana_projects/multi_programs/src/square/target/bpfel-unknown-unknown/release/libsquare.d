@@ -1,0 +1,1 @@
+/Users/ziad/Documents/Project/BKR/solana_project/multi_programs/src/square/target/bpfel-unknown-unknown/release/libsquare.rlib: /Users/ziad/Documents/Project/BKR/solana_project/multi_programs/src/square/src/lib.rs

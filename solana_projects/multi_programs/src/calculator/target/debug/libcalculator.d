@@ -1,0 +1,1 @@
+/Users/ziad/Documents/Project/BKR/solana_project/multi_programs/src/calculator/target/debug/libcalculator.dylib: /Users/ziad/Documents/Project/BKR/solana_project/multi_programs/src/calculator/src/calculator_instructions.rs /Users/ziad/Documents/Project/BKR/solana_project/multi_programs/src/calculator/src/lib.rs
